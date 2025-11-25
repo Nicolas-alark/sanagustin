@@ -786,5 +786,13 @@
     "integrantes": ["Cabrera Elmer"],
     "actividad": "Expo React Native",
     "url": "https://drive.google.com/file/d/1BW2N5jFu5qPIRFm5sNB4duzCWtcGeW80/view?usp=drive_link"
+  },
+  {
+    "nombreapp": "api-Spacex",
+    "descripcion": "Api Spacex.",
+    "icono": "https://cdn-icons-png.flaticon.com/128/10212/10212629.png",
+    "integrantes": ["Nicolas Alarcon Mendoza"],
+    "actividad": "Expo React Native Firebase",
+    "url": "https://expo.dev/accounts/nicolasalarcon/projects/tronos_next/builds/17e1e3b1-7bce-462e-8d14-6105f1f5c4f7"
   }
 ]
